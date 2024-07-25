@@ -1,0 +1,17 @@
+#back
+{
+    background-color: grey;
+    height: 20px;
+    width: auto;
+    border: black;
+}
+#github:hover,#Linkin:hover,#Resume:hover
+{
+    color: rgb(211, 98, 98);
+    text-shadow: rgb(134, 236, 134) rgb(204, 255, 0);
+    transition: github 3s infinite;
+}
+#git
+{
+    margin: left;
+}
