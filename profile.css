@@ -40,11 +40,7 @@ header {
     padding: 20px 0;
     
 }
-.sk{
-    border:5px solid #f2f2fc;
-    border-radius:10px; 
- 
-}
+
 
 header h1 {
     margin: 0;
@@ -99,7 +95,8 @@ img{
 
 }
 .item1{
+    color: black;
     font-size: x-large;
     margin-left: 25px;
-    
 }
+    
